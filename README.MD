@@ -11,7 +11,8 @@ Crianças valem por 0,5.
 ````
 </br>
 
-<img src="./images/churrascometro.png"> </img>
+<img src="./images/churrascometro.png">
+</br>
 
 
  # Tecnologias utilizadas
@@ -21,6 +22,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
  <li> CSS</li>
  <li> JAVASCRIPT</li>
 </br>
+
+<p>Link do projeto</p>
+https://diegofchagas.github.io/churras_calc/
 
 # Desenvolvedor 
 Diego Chagas
