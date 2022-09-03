@@ -11,7 +11,7 @@ Crianças valem por 0,5.
 ````
 </br>
 
-<img src="./images/churrascometro.png">
+
 </br>
 
 
